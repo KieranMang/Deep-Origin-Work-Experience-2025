@@ -18,10 +18,7 @@ https://github.com/user-attachments/assets/36c9983f-0057-4190-93dc-8c7503983495
 
 The Radial Distribution Function (g(r)) describes how density varies compared to the distance from a reference particle.
 It is basically the probability of finding the center of a molecule (the oxygen atom in this case) within the distance of r and r + Δr.
-<figure>
-  <img width="850" height="621" alt="Diagram of atoms showing g(r)" src="https://github.com/user-attachments/assets/d5bc05e8-3b5e-4d91-86e7-841fa411ce1e" />
-  <figcaption>https://en.wikipedia.org/wiki/Radial_distribution_function</figcaption>
-</figure>
+
 
 # The built in implementation with MDTraj
 Uses the built in function in the MDTraj python library, we obtain the expected graph with the same shape and a peak at around 3 Å.
