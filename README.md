@@ -54,7 +54,6 @@ The first initial spike goes beyond 400 and is the point where the radius is lon
 You can see the formings of logarithmic and linear graphs in the two graphs on the right. (As to be expected)
 
 # The average of the previous graph
-<img width="576" height="438" alt="31ed95d4-d819-4e55-9756-dfc7272b12a0" src="https://github.com/user-attachments/assets/c2bedab3-5104-4ee3-a124-b0c17613ae9d" />
 <figure>
   <img width="428" height="337" alt="24cf9d86-c29a-45ac-9df9-9b52e62cf870" src="https://github.com/user-attachments/assets/27a29f8a-a8b2-41c4-8daa-baf0eac62fce" />
   <figcaption>Model graph</figcaption>
